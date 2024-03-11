@@ -58,7 +58,7 @@ header p {
     padding-left: 10px;
     padding-right: 10px; /*Os dois paddings foram adicionados para que o paragrafo nao junte a borda quando diminuirmos a tela.*/
     margin: auto; /*Uma vez que adicionamos uma larguta, o texto virou um bloco e o text-align já nao funciona pra ele, entao usamos um margin auto para centralizar o bloco.*/
-    margin-bottom: 30px;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.514);
 }
 
